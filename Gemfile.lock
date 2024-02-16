@@ -2,9 +2,9 @@ PATH
   remote: .
   specs:
     solid_queue (0.2.1)
-      rails (~> 7.1)
       concurrent-ruby (~> 1.2.2)
       fugit (~> 1.9.0)
+      rails (~> 7.1)
 
 GEM
   remote: https://rubygems.org/
